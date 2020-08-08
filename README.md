@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning OpenGL
 
-📫 How to reach me: QQ:77209302
+📫 How to reach me: QQ:77209302（https://www.zackaddy.com）
 <!--
 **herghost000/herghost000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
