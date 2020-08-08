@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+🔭 I’m currently working on Web.
+🌱 I’m currently learning OpenGL
+📫 How to reach me: QQ:77209302
 <!--
 **herghost000/herghost000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
