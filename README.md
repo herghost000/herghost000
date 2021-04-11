@@ -43,6 +43,15 @@ JSON         3 mins          ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+📈 My GitHub Stats
+
+<a href="https://github.com/herghost000">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=herghost000&show_icons=true&theme=radical" alt="herghost000's github stats" />
+</a>
+<a href="https://github.com/herghost000">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herghost000&layout=compact&theme=radical" />
+</a>
+
 ---
 
 #### :sparkles: My followers
@@ -206,14 +215,3 @@ JSON         3 mins          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:top-followers-->
 
 ---
-
-📈 My GitHub Stats
-
-<a href="https://github.com/herghost000">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=herghost000&show_icons=true&theme=radical" alt="herghost000's github stats" />
-</a>
-<a href="https://github.com/herghost000">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herghost000&layout=compact&theme=radical" />
-</a>
-
-
