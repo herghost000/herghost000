@@ -5,9 +5,7 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=herghost000.herghost000)
-
 <br />
-
 Hi, I'm [Zack Addy](https://www.zackaddy.com/), a passionate self-taught Full Stack web developer and a freelance software engineer from China. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
