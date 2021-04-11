@@ -33,6 +33,16 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+JavaScript   9 hrs 51 mins   ███████████████░░░░░░░░░░   60.65 % 
+JSX          4 hrs 9 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.53 % 
+SCSS         2 hrs 10 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+```
+<!--END_SECTION:waka-->
+
 ---
 
 #### :sparkles: My followers
